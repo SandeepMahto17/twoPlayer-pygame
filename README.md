@@ -18,3 +18,6 @@ Install pygame
 ```bash
   pip install pygame
 ```
+```bash
+  python baketball.py
+```
